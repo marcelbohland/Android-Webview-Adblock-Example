@@ -1,4 +1,7 @@
 # Android-Webview-Adblock-Example
+
+[![current version](https://img.shields.io/badge/current%20version-1.0.0-blue.svg)](https://github.com/marcelbohland/Android-Webview-Adblock-Example/releases/tag/1.0.0)
+
 Adblock System for Android Webview
 
 This project is free too use.
